@@ -12,7 +12,7 @@ This project showcases my ability to build a **full-featured, client-side applic
 
 I didn't just build this to sit on my computer—it's live for you to test!
 
-\[🚀 **Click Here to View the Live Recipe Generator**](YOUR-GITHUB-PAGES-URL)
+\[🚀 **Click Here to View the Live Recipe Generator**] -- https://jaya-shri.github.io/recipe-finder/
 
 ***
 
